@@ -51,3 +51,25 @@ a{
 a{
     direction: none;
 }
+logo {
+    font-size: 2rem; /* لجعل الشعار أكبر */
+    font-weight: bold; /* لجعل الخط أكثر سماكة */
+    margin-right: 10px; /* مسافة بين الشعار والعناصر الأخرى */
+}
+/* article {
+    background-color: #f9f9f9; /* خلفية رمادية فاتحة */
+    color: #333; /* لون النص */
+    padding: 20px; /* مسافة داخلية */
+    border-radius: 10px; /* زوايا دائرية */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* ظل خفيف */
+}
+
+article h1 {
+    color: #007BFF; /* لون أزرق لرأس المقالة */
+    font-size: 1.8rem;
+}
+
+article p {
+    font-size: 1rem;
+    line-height: 1.6;
+} */
